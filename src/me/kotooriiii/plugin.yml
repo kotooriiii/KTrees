@@ -1,0 +1,14 @@
+name: KTrees
+main: me.kotooriiii.KTrees
+author: kotooriiii
+version: 1.0
+commands:
+  cal:
+    usage:
+    description:
+  calendar:
+    usage:
+    description:
+permissions:
+  phistory.calendar.admin:
+    description:

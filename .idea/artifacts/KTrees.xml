@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KTrees">
+    <output-path>$PROJECT_DIR$/out/artifacts/KTrees</output-path>
+    <root id="archive" name="KTrees.jar">
+      <element id="module-output" name="KTrees" />
+    </root>
+  </artifact>
+</component>
